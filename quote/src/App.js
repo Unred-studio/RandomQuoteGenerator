@@ -124,10 +124,9 @@ function Show() {
 
   // css work
   const styleBody = {
-    overflow: "hidden",
     backgroundColor: bgcolor,
-    width: "110%",
-    height: "110%",
+    width: "100%",
+    height: "100vh",
     display: "flex",
     justifyContent: "center",
     alignItems: "center", 
