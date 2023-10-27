@@ -121,10 +121,7 @@ function Show() {
   const styleBody = {
     backgroundColor: bgcolor,
     width: "100%",
-    height: "100vh",
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
+    height: "100%"
   };
 
   const styleBox = {
